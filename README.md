@@ -1,5 +1,3 @@
-# website-youtube_summarizer
-
 # Website & YouTube Summarizer
 
 A Streamlit application that summarizes text content from YouTube videos or websites using LangChain and the Groq API. The app allows users to input a URL (YouTube or website) and a Groq API key, then generates a 300-word summary of the content.
@@ -83,4 +81,3 @@ This project is licensed under the MIT License.
 
 ## Contact
 For issues or suggestions, open an issue on [GitHub](https://github.com/Monish-Nallagondalla/website-youtube_summarizer/issues) or contact [Monish Nallagondalla](https://github.com/Monish-Nallagondalla).
-```
